@@ -1,6 +1,6 @@
 # React JS Resume Website Template
 
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true 'ReactJS Resume Website Template')
+![Personal Info](resume-screenshot.jpg?raw=true 'ReactJS Resume Website Template')
 
 <div align="center">
 
